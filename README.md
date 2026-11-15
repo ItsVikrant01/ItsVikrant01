@@ -8,7 +8,7 @@ Hi, I'm Vikrant Rana 👋
 # 💫 About Me:
 🔭 I'm currently working on Data Analytics & Machine Learning projects<br>🌱 I'm learning Data Science, Machine Learning, and Business Intelligence<br>📊 Passionate about turning raw data into meaningful insights<br>💬 Ask me about Python, SQL, Power BI, Tableau, and Data Analytics<br>⚡ Fun fact: I like finding insights hidden in what others see as ordinary numbers.
 
-[![My work](https://github.com/ItsVikrant01?tab=repositories)] 
+[[My Work](https://github.com/ItsVikrant01?tab=repositories)] 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/vikrantranaofficial?igsh=MWU1ODJuc3Rvb2g2bQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vikrant-rana-168185306?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Vikrantrana2634@gmail.com) 
